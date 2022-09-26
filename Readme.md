@@ -1,4 +1,4 @@
-###This is a second version of a simple camera-simulator created as a response to the assignment (_"Python_Test.pdf"_).
+### This is a second version of a simple camera-simulator created as a response to the assignment (_"Python_Test.pdf"_).
 
 ### This project contains of a package called camera-simulator which itself contains these dependencies:
 
