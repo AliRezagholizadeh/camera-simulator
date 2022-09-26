@@ -4,7 +4,7 @@ setup(
     name='camera-simulator',
     version='0.0.2',
     description='A example Python package',
-    url='https://github.com/shuds13/pyexample',
+    url='https://github.com/AliRezagholizadeh/camera-simulator.git',
     author='Ali Rezagholizadeh',
     author_email='ali.rezagholizadeh.1@ens.etsmtl.ca',
     license='-',
