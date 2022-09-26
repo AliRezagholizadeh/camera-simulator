@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: camera-simulator
+Version: 0.0.1
+Summary: A example Python package
+Home-page: https://github.com/shuds13/pyexample
+Author: Ali Rezagholizadeh
+Author-email: ali.rezagholizadeh.1@ens.etsmtl.ca
+License: -
+Classifier: Development Status :: First phase
+Classifier: Intended Audience :: A test
+Classifier: License :: OSI Approved :: -
+Classifier: Operating System :: POSIX :: macOS Monterey 12.0.1
+Classifier: Programming Language :: Python :: 3.8.10
