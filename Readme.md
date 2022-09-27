@@ -44,8 +44,8 @@ output 2D numpy data (image).
  - Implement a Lens decorator for Sensor, such that each time the Sensor process is called, the Lens process is called.
  - Allow the Sensor to be used as an iterator of 10 elements. At each cycle, the returned image is the original image plus the index of the iteration.
  - Create a function mymean that generates a random image, passes that image through a Sensor object and returns the mean of the image.
-   - This function is put in Sensor modul.
+   - This function is put in Sensor module.
    - It is assumed that a random image is passed through Sensor.process method (as it is not mentioned in the task explaination).
 
  - Demonstrate the use of the concurrent package to create a pool of 5 workers and call the previously created mymean function 100 times.
-   - This function is put in Sensor modul.
+   - This function is put in Sensor module.
